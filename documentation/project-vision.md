@@ -26,10 +26,15 @@ Glad you asked. Here's a few ideas on how it may evolve:
 ### Pieces of the project:
 + #### The map:
   + A map with hand drawn appearance. It is a "fuzzy" representation of the real world, and it allows users to add any home/place/treasure that they want on the map.
+  + Or a map like World of Warcraft cerca 2000. Simple pixelated graphics, but highly customizable, allowing users to build the avatars, skins, homes, whatever of their dreams. 
 + #### The home
   + ...or "spirit" home? "meta" sounds so lame nowadays. But this is where users can create whatever they want, and this is where a lot of the social incentives come in. IE, people would want to make their home dope af, just like how people in the real world want to impress others with their home. But really that's just one little hook to get people to use the app.
 + #### The feed 
   + A feed for users to get notifications of events and things going on.
++ #### Incentive Structure
+  + Upvotes to show interest in other's projects
+  + Thank-yous for providing dope real world experiences
+  + Earn upvotes and thank-yous to get... something?
 
 
 
